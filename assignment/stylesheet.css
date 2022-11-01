@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(2, 95, 38);
+  }
+/* Make the header and footer a different color from the background */
+header{
+    background-color: rgba(15, 59, 235, 0.4);
+}
+
+footer {
+	background-color: rgba(15, 59, 235, 0.4);
+    text-align: center;
+    font:20px "Arial",san-serif;
+}
